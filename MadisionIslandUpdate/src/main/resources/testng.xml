@@ -11,8 +11,8 @@
 			</class> -->	
 			<class name="TestPages.TestLogin">
 			</class> 
-			<class name="TestPages.TestRegistration">
-			</class> 
+		<!--  	<class name="TestPages.TestPurchase">
+			</class> -->
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
