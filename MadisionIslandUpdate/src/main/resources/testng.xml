@@ -10,7 +10,9 @@
 		<!-- <class name="TestPages.TestRegistration">
 			</class> -->	
 			<class name="TestPages.TestLogin">
-			</class>  
+			</class> 
+			<class name="TestPages.TestRegistration">
+			</class> 
 		</classes>
 	</test> <!-- Test -->
 </suite> <!-- Suite -->
